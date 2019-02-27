@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MeetItDraft</string>
+    <string name="meetit_logo">MeetItLogo</string>
+    <string name="welcome_back">Welcome back!</string>
 </resources>
